@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning B.tech (final year)
 - 📫 How to reach me--
 - Linkedin account -linkedin.com/in/sidhant-mandale-3266b320b
+- Mail Id - mandalesidhant@gmail.com
 
 <!---
 MandaleSidhant/MandaleSidhant is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
