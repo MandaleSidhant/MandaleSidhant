@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MandaleSidhant
 - 👀 I’m interested in web development,also blockchain
-- 🌱 I’m currently learning B.tech (final year)
+- 🌱 I’m an ENG!NEER
 - 📫 How to reach me--
 - Linkedin account -linkedin.com/in/sidhant-mandale-3266b320b
 - Mail Id - mandalesidhant@gmail.com
