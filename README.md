@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 👋 Hi, I’m @MandaleSidhant<br>
 🌱 I’m an ENG!NEER<br>
 📫 How to reach me--<br>
-                 Linkedin account -linkedin.com/in/sidhant-mandale-3266b320b
+                 Linkedin account -linkedin.com/in/sidhant-mandale-3266b320b <br>
                  Mail Id - mandalesidhant@gmail.com
 
 
