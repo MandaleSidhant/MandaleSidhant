@@ -4,7 +4,7 @@ MandaleSidhant/MandaleSidhant is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 # 💫 About Me:
-💬 Ask me about #webdesigne #webdesign #webdevelopers #html5 #webdevelope<br>
+💬 Ask me about #webdesigne #webdesign #webdevelopers #html5 #webdeveloper<br>
 👋 Hi, I’m @MandaleSidhant<br>
 🌱 I’m an ENG!NEER<br>
 📫 How to reach me--<br>
