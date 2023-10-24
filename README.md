@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MandaleSidhant&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MandaleSidhant&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=mandalesidhant&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 
 
 
